@@ -54,6 +54,20 @@ The platform combines AI-powered recommendations, analytics, and audit logging i
 - Responsive design
 
 ---
+## 🎥 Demo Video
+
+Watch RecoverAI in action:
+
+**▶️ Demo:** https://github.com/Vaishnavi130406/RecoverAI/releases
+
+> The demo showcases:
+> - Secure Login
+> - AI Revenue Dashboard
+> - Recovery Center
+> - Gemini AI Explainability
+> - Analytics Dashboard
+> - Audit Trail
+
 
 # 🛠 Technology Stack
 
