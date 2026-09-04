@@ -1,0 +1,151 @@
+payment_id,amount_inr,original_status,failure_reason,attempts,diagnosis,action,confidence,result,recovered_amount_inr,stopping_rule
+PAY1000,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1001,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1002,299.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1003,3999.0,SUCCESS,,2,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1004,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1005,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1006,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1007,499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1008,1499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1009,1499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1010,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1011,8999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1012,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1013,1499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1014,299.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1015,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1016,1499.0,SUCCESS,,2,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1017,3999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1018,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1019,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1020,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1021,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1022,499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1023,12999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1024,299.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1025,3999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1026,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1027,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1028,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1029,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1030,499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1031,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1032,1499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1033,499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1034,999.0,SUCCESS,,2,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1035,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1036,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1037,499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1038,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1039,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1040,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1041,499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1042,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1043,1499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1044,499.0,SUCCESS,,2,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1045,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1046,999.0,SUCCESS,,2,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1047,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1048,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1049,1499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1050,8999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1051,1499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1052,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1053,3999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1054,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1055,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1056,299.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1057,299.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1058,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1059,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1060,999.0,SUCCESS,,2,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1061,8999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1062,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1063,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1064,8999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1065,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1066,8999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1067,499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1068,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1069,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1070,1499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1071,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1072,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1073,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1074,499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1075,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1076,8999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1077,1499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1078,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1079,299.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1080,8999.0,SUCCESS,,2,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1081,999.0,SUCCESS,,2,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1082,999.0,SUCCESS,,2,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1083,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1084,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1085,1499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1086,2499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1087,12999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1088,8999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1089,3999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1090,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1091,8999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1092,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1093,4999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1094,999.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1095,299.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1096,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1097,299.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1098,499.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1099,799.0,SUCCESS,,1,Payment is already successful.,STOP,1.0,NO_ACTION,0.0,Already successful
+PAY1100,299.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,FAILED_AFTER_RETRY,0.0,Retry within one-attempt limit
+PAY1101,3999.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,FAILED_AFTER_RETRY,0.0,Retry within one-attempt limit
+PAY1102,4999.0,FAILED,PAYMENT_METHOD_DECLINED,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,RECOVERED,4999.0,Reminder sent; await customer action
+PAY1103,12999.0,FAILED,INSUFFICIENT_FUNDS,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,CUSTOMER_ACTION_REQUIRED,0.0,Reminder sent; await customer action
+PAY1104,499.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,499.0,Retry within one-attempt limit
+PAY1105,2499.0,FAILED,ALREADY_RECOVERED,2,Payment appears to have been recovered already.,STOP,0.99,NO_ACTION,0.0,Already recovered
+PAY1106,2499.0,FAILED,INSUFFICIENT_FUNDS,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,CUSTOMER_ACTION_REQUIRED,0.0,Reminder sent; await customer action
+PAY1107,499.0,FAILED,PAYMENT_METHOD_DECLINED,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,CUSTOMER_ACTION_REQUIRED,0.0,Reminder sent; await customer action
+PAY1108,999.0,FAILED,NETWORK_ERROR,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,999.0,Retry within one-attempt limit
+PAY1109,3999.0,FAILED,PAYMENT_METHOD_DECLINED,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,RECOVERED,3999.0,Reminder sent; await customer action
+PAY1110,299.0,FAILED,REPEATED_FAILURE,5,Repeated failures exceed automated retry threshold; human review required.,ESCALATE,0.97,ESCALATED,0.0,Retry threshold exceeded
+PAY1111,8999.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,8999.0,Retry within one-attempt limit
+PAY1112,2499.0,FAILED,ALREADY_RECOVERED,3,Payment appears to have been recovered already.,STOP,0.99,NO_ACTION,0.0,Already recovered
+PAY1113,2499.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,FAILED_AFTER_RETRY,0.0,Retry within one-attempt limit
+PAY1114,2499.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,FAILED_AFTER_RETRY,0.0,Retry within one-attempt limit
+PAY1115,999.0,FAILED,REPEATED_FAILURE,3,Repeated failures exceed automated retry threshold; human review required.,ESCALATE,0.97,ESCALATED,0.0,Retry threshold exceeded
+PAY1116,499.0,FAILED,NETWORK_ERROR,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,FAILED_AFTER_RETRY,0.0,Retry within one-attempt limit
+PAY1117,299.0,FAILED,REPEATED_FAILURE,4,Repeated failures exceed automated retry threshold; human review required.,ESCALATE,0.97,ESCALATED,0.0,Retry threshold exceeded
+PAY1118,799.0,FAILED,INSUFFICIENT_FUNDS,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,CUSTOMER_ACTION_REQUIRED,0.0,Reminder sent; await customer action
+PAY1119,299.0,FAILED,ALREADY_RECOVERED,3,Payment appears to have been recovered already.,STOP,0.99,NO_ACTION,0.0,Already recovered
+PAY1120,499.0,FAILED,REPEATED_FAILURE,3,Repeated failures exceed automated retry threshold; human review required.,ESCALATE,0.97,ESCALATED,0.0,Retry threshold exceeded
+PAY1121,499.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,499.0,Retry within one-attempt limit
+PAY1122,2499.0,FAILED,INSUFFICIENT_FUNDS,2,Case does not satisfy an approved automated recovery rule.,ESCALATE,0.7,ESCALATED,0.0,No safe automated rule
+PAY1123,999.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,999.0,Retry within one-attempt limit
+PAY1124,799.0,FAILED,NETWORK_ERROR,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,FAILED_AFTER_RETRY,0.0,Retry within one-attempt limit
+PAY1125,4999.0,FAILED,ALREADY_RECOVERED,2,Payment appears to have been recovered already.,STOP,0.99,NO_ACTION,0.0,Already recovered
+PAY1126,12999.0,FAILED,INSUFFICIENT_FUNDS,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,RECOVERED,12999.0,Reminder sent; await customer action
+PAY1127,999.0,FAILED,INSUFFICIENT_FUNDS,2,Case does not satisfy an approved automated recovery rule.,ESCALATE,0.7,ESCALATED,0.0,No safe automated rule
+PAY1128,499.0,FAILED,NETWORK_ERROR,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,499.0,Retry within one-attempt limit
+PAY1129,1499.0,FAILED,PAYMENT_METHOD_DECLINED,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,CUSTOMER_ACTION_REQUIRED,0.0,Reminder sent; await customer action
+PAY1130,3999.0,FAILED,NETWORK_ERROR,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,3999.0,Retry within one-attempt limit
+PAY1131,3999.0,FAILED,REPEATED_FAILURE,4,Repeated failures exceed automated retry threshold; human review required.,ESCALATE,0.97,ESCALATED,0.0,Retry threshold exceeded
+PAY1132,1499.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,1499.0,Retry within one-attempt limit
+PAY1133,8999.0,FAILED,REPEATED_FAILURE,3,Repeated failures exceed automated retry threshold; human review required.,ESCALATE,0.97,ESCALATED,0.0,Retry threshold exceeded
+PAY1134,999.0,FAILED,INSUFFICIENT_FUNDS,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,CUSTOMER_ACTION_REQUIRED,0.0,Reminder sent; await customer action
+PAY1135,8999.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,8999.0,Retry within one-attempt limit
+PAY1136,1499.0,FAILED,NETWORK_ERROR,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,1499.0,Retry within one-attempt limit
+PAY1137,2499.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,2499.0,Retry within one-attempt limit
+PAY1138,999.0,FAILED,REPEATED_FAILURE,4,Repeated failures exceed automated retry threshold; human review required.,ESCALATE,0.97,ESCALATED,0.0,Retry threshold exceeded
+PAY1139,4999.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,4999.0,Retry within one-attempt limit
+PAY1140,299.0,FAILED,ALREADY_RECOVERED,3,Payment appears to have been recovered already.,STOP,0.99,NO_ACTION,0.0,Already recovered
+PAY1141,1499.0,FAILED,TIMEOUT,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,1499.0,Retry within one-attempt limit
+PAY1142,3999.0,FAILED,INSUFFICIENT_FUNDS,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,CUSTOMER_ACTION_REQUIRED,0.0,Reminder sent; await customer action
+PAY1143,299.0,FAILED,ALREADY_RECOVERED,3,Payment appears to have been recovered already.,STOP,0.99,NO_ACTION,0.0,Already recovered
+PAY1144,999.0,FAILED,PAYMENT_METHOD_DECLINED,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,CUSTOMER_ACTION_REQUIRED,0.0,Reminder sent; await customer action
+PAY1145,999.0,FAILED,PAYMENT_METHOD_DECLINED,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,RECOVERED,999.0,Reminder sent; await customer action
+PAY1146,1499.0,FAILED,PAYMENT_METHOD_DECLINED,1,Payment-method or funds issue; customer reminder/payment-link is safer than blind retry.,REMIND,0.88,CUSTOMER_ACTION_REQUIRED,0.0,Reminder sent; await customer action
+PAY1147,799.0,FAILED,NETWORK_ERROR,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,FAILED_AFTER_RETRY,0.0,Retry within one-attempt limit
+PAY1148,999.0,FAILED,ALREADY_RECOVERED,3,Payment appears to have been recovered already.,STOP,0.99,NO_ACTION,0.0,Already recovered
+PAY1149,8999.0,FAILED,NETWORK_ERROR,1,Temporary gateway/network failure; bounded retry is appropriate.,RETRY,0.94,RECOVERED,8999.0,Retry within one-attempt limit
